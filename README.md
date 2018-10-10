@@ -3,7 +3,7 @@
 
 <!DOCTYPE html>
 <html>
-<body class = "homePic">
+<body>
     
     
     
@@ -12,7 +12,7 @@
 <h1 class = "name"> Oliver Truong</h1>
 
     
-    <h3>
+ <h3>
     <ol class = "one">
       <li> <a href = "Home.html"> Home</a></li>
       <li> <a href = "Stories.html"> Stories</a></li>
