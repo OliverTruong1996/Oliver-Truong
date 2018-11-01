@@ -12,7 +12,7 @@
 
     
  <p>
-    
+    Thanks for visiting my Github. This is my personal website.
     
     
  <p>
