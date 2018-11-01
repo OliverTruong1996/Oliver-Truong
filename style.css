@@ -1,0 +1,90 @@
+h1 {
+    text-align: center;
+}
+
+.homePic{
+  /*background-color: #808080;*/
+background-image: url("/images/work2.jpg"); 
+
+}
+
+.name {
+    position: relative;
+    top: 70px;
+    color: azure;
+    
+}
+.one {
+    
+}
+.one li{
+    display: inline-block;
+    position: relative;
+    bottom: 40px;
+   /* background-color: gainsboro;*/
+}
+
+#Intro {
+    text-align: center;
+    font-family: Georgia;
+    color: azure;
+    /*background-color: #808080;*/
+}
+
+.Stories {
+
+background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rN0W64K4ipau8gxv/gray-background-soft-fifteen-shades-of-grey-smooth-background-with-the-addition-of-a-bit-of-noise_b4tps759fe_thumbnail-full01.png");  
+}
+.juggle1 {
+    display: block;
+    line-height: 32px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.juggle2 {
+    display: block;
+    line-height: 32px;
+    text-align: center;
+    
+}
+
+.juggle3 {
+    display: block;
+    line-height: 32px;
+    text-align: center;
+    
+}
+.Q {
+    position: relative;
+    top: 50px;
+}
+
+
+.two li{
+    display: inline-block;
+    position: relative;
+    bottom: 40px;
+    
+}
+
+.three li{
+    display: inline-block;
+    position: relative;
+    top: 21px;
+    
+}
+
+.About {
+   background-color: white;
+}
+.about {
+    font-family:monospace;
+}
+
+.summer {
+    text-align: center;
+}
+.Me {
+ 
+}
