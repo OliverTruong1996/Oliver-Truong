@@ -13,7 +13,7 @@
     
  <h3>
     <ol class = "one">
-      <li> <a href = "Home.html"> Home</a></li>
+      <li> <a href = "index.html"> Home</a></li>
       <li> <a href = "Stories.html"> Stories</a></li>
       <li> <a href = "About.html"> About Me </a></li>
       <li> <a href = ""></a> </li>
