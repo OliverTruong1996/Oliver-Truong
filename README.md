@@ -8,7 +8,7 @@
     
 <head>  <link href = "style.css" type = "text/css" rel = "stylesheet"></head>  
     
-<h1 Oliver Truong</h1>
+<h1> Oliver Truong </h1>
 
     
  <p>
