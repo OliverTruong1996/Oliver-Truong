@@ -11,8 +11,9 @@ html {
 .B {
     text-align: center;
     color: black;
-   /* position: relative;
-    bottom:150px;*/
+    position: relative;
+    top:280px;
+    font-size: 65px;
 }
 
 
@@ -20,7 +21,7 @@ html {
 .homePic{
   /*background-color: #808080;*/
   background-image: url("/images/work2.jpg"); 
-  background-repeat: no-repeat;
+  background-repeat:no-repeat;
   background-size: 100% 100%;
 }
 
@@ -34,13 +35,22 @@ html {
     left:85px;
     font-size: 50px;
 }
+
+.subheading {
+    text-align: left;
+    color: white;
+    position: relative;
+    top: 440px;
+    font-size: 120px;
+    left:20px;
+}
 .one {
     
 }
 .one li{
     display: inline-block;
     position: relative;
-    bottom: 40px;
+    bottom: 388px;
    /* background-color: gainsboro;*/
 }
 
@@ -48,6 +58,8 @@ html {
     text-align: center;
     font-family: Georgia;
     color: black;
+    position: relative;
+    top:300px;
     /*background-color: #808080;*/
     
 }
