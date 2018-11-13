@@ -21,8 +21,8 @@ html {
 .homePic{
   /*background-color: #808080;*/
   background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rN0W64K4ipau8gxv/gray-background-soft-fifteen-shades-of-grey-smooth-background-with-the-addition-of-a-bit-of-noise_b4tps759fe_thumbnail-full01.png"); 
-  background-repeat:no-repeat;
-  background-size: 100% 100%;
+ /* background-repeat:no-repeat;
+  background-size: 100% 100%;*/
 }
 
 .name {
