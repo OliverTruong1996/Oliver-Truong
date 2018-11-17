@@ -64,6 +64,12 @@ html {
     /*background-color: #808080;*/
     
 }
+.homepic {
+    text-align: center;
+    position:relative;
+    bottom: 1300px;
+    
+}
 
 .Stories {
 
