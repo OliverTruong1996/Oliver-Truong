@@ -117,7 +117,7 @@ background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rN0
 
 .About {
    background-color: white;
-   background-image: url("/images/bright.jpeg"); 
+   background-image: url("../images/bright.jpeg"); 
    background-repeat:no-repeat;
    background-size: 100% 100%;
 }
