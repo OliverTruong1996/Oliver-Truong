@@ -45,6 +45,12 @@ html {
     font-size: 180px;
     left:20px;
 }
+
+.arrow {
+    text-align: center;
+    position: relative;
+    top: 335px;
+}
 .one {
     
 }
