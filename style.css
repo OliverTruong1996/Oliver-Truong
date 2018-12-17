@@ -41,7 +41,7 @@ html {
     text-align: left;
     color: white;
     position: relative;
-    top: 280px;
+    top: 320px;
     font-size: 180px;
     left:20px;
 }
@@ -57,7 +57,7 @@ html {
 .one li{
     display: inline-block;
     position: relative;
-    bottom: 520px;
+    bottom: 620px;
    /* background-color: gainsboro;*/
 }
 
